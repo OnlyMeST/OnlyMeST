@@ -1,0 +1,6 @@
+- Greetings Mortal, you can call me ST
+- I am a Highschool student who does some projects on the side
+- I play with fields like file encryption and game design mostly
+- I'll share every project I'm going to code for the public for the sake of it
+- Hopefully you find something helpful here or you can also help me improve my code
+- Have fun ;)
