@@ -1,6 +1,6 @@
 # Welcome to my GitHub Account!
 
-Hey, I'm Airis and this is my personal GitHub account where I share some of my projects and code snippets.
+Hey, I'm Airis (Saria Mostafa) and this is my personal GitHub account where I share some of my projects and code snippets.
 
 ## Projects
 
@@ -15,6 +15,6 @@ I'm always looking for ways to improve my projects and learn new things, so feel
 
 ## Contact
 
-If you want to get in touch, you can send me an email at [saria.tttzby@gmail.com]. I'm also active on [Twitter](https://twitter.com/your-username), where I often share updates about my projects and other things I'm interested in and [reddit](https://www.reddit.com/user/OnlyMeST).
+If you want to get in touch, you can send me an email at [saria.mostafa.pvt@gmail.com]. I'm also active on [Twitter](https://twitter.com/OnlyMeST2), where I often share updates about my projects and other things I'm interested in, and [reddit](https://www.reddit.com/user/OnlyMeST).
 
 Thanks for visiting my GitHub account!
