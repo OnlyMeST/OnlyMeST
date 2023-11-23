@@ -14,6 +14,7 @@ Hey, I'm Airis (Saria Mostafa) and this is my personal GitHub account where I sh
 Here are a few of the projects I'm currently working on:
 
 - A tracking Algorithm for fusion reactors
+- Physics Simulations repository for Educators
 
 
 You can also check out my [profile page](https://github.com/OnlyMeST) to see a complete list of my public repositories.
