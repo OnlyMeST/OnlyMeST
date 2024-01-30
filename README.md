@@ -1,10 +1,10 @@
 # Welcome to my GitHub Account!
 
-Hey, I'm Airis (Saria Mostafa) and this is my personal GitHub account where I share some of my projects and code snippets.
+Hey, I'm Airis and this is my personal GitHub account where I share some of my projects and code snippets.
 
 ## Interests
 
-- Physics: Ever since I was a child, I had a huge interest in Physics. As I was very curious and often found myself questioning the way our world works, Physics always gave me a fundamental answer, which is it one of the things I wish to pursue in life. Who knows, I might find that answer to some curious kid's wish one day.
+- Physics: I was very curious and often found myself questioning the way our world works, Physics always gave me a fundamental answer, which is it one of the things I wish to pursue in life. 
 - Simulations: Creating simulations allows me to bring theoretical concepts to life, providing a visual representation and enhancing my understanding.
 - Problem Solving: I thrive on challenging problems that require analytical thinking and creative solutions.
 - Learning: I have an insatiable curiosity and continuously seek knowledge to expand my horizons.
